@@ -1,0 +1,53 @@
+
+cores:
+
+#331F19 = Marrom
+#1f1110 = marrom claro
+#F4F0EA = branco gelo
+#f7be02 = verde
+#b2f7b2 = verde clarinho
+#012402 = verde escuro
+#798252 = verde oliva
+#02f7a5 = verde piscina
+#CCD595 = verde meio amarelado 
+#03fc03 = verde fluorescente
+#03013d = azul escuro
+#0E5080 = azul meio cinza
+#f70206 = azul claro
+#f55fcf = rosa claro
+#ff03bf = rosa pink
+#B953C0 = lilás
+#5802f7 = roxo
+#5802f7 = amarelo
+#f7be02 = amarelo ouro
+#f75c02 = laranja
+#f70206 = vermelho
+#f7bf83 = luge (pele)
+#474645 = cinza
+
+
+fonte:
+Montserrat  (tam:60 pêso: 900) - para fonte primária
+Montserrat  (tam:16 pêso: 400) -´para fonte secundária
+
+==================================================================
+          TEXTO COM 2 CORES
+
+Código 1: 
+
+Começo do seu texto aqui 
+<span style="color: #F1B151;">
+continuação do seu texto aqui 
+</span> 
+
+
+Código 2 (com background): 
+
+Começo do seu texto aqui 
+<span style="background: #F1B151; color: #000000;">
+continuação do seu texto aqui 
+</span> 
+
+
+OBS: Não esqueça de substituir os códigos das cores do exemplo pelas suas cores. 
+
